@@ -63,7 +63,7 @@
                     <div class="shadow p-3 mb-2 bg-white rounded-3" style="max-width: 1300px;">
                         <div class=" row g-0">
                             <div class="col-md-2">
-                                <img class="rounded-circle" src="./gambar/logo/2.png" width="130" height="130" alt="">
+                                <img class="rounded-circle" src="./gambar/logo/mickey.png" width="130" height="130" alt="">
                             </div>
                             <div class="col-md-6">
                                 <div class="card-body">

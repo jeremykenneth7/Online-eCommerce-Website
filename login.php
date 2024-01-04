@@ -24,7 +24,7 @@
         }
 
         body {
-            background-image: url(./gambar/background/beach.jpg);
+            background-image: url(./gambar/background/shop.jpg);
             background-repeat: no-repeat;
             background-size: cover;
         }
